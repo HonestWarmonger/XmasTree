@@ -1,6 +1,6 @@
 # XmasTree
 
 **Схема Дерева**
-![Схема дерева](xmasarvore.png)
+![Схема дерева](xmasbase.png)
 **Схема Базы**
-![Схема бази](xmasbase.png)
+![Схема бази](xmasarvore.png)
